@@ -1,6 +1,6 @@
 ##  Hi there 👋 , I'm Bohdan
 
->I'm a passionate Front-End Developer from Ukraine 🇺🇦.
+I'm a passionate Front-End Developer from Ukraine 🇺🇦.
 
 ## You can find me here:    
 
@@ -22,5 +22,6 @@
 - DataBase: MySQL, PostgreSQL
 - Bundlers: Webpack, Vite
 - Version Control: Git, GitHub
+
 
 

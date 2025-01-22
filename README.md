@@ -2,7 +2,7 @@
 
 I'm a passionate Front-End Developer from Ukraine 🇺🇦.
 
-## You can find me here:    
+## Contact me:    
 
 [![Linkedin: ](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdanfrontenddev/)](https://www.linkedin.com/in/bogdanfrontenddev/)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=black&logo=telegram&logoColor=blue)](https://t.me/thomasnoire)
